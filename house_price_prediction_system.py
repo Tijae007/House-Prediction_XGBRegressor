@@ -22,7 +22,7 @@ from sklearn import metrics
 
 """Importing Boston Dataset"""
 
-#loading diabetes dataset to pandas
+#loading boston dataset to pandas
 house_price_dataset = pd.read_csv('/content/boston.csv')
 
 print(house_price_dataset)
